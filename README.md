@@ -1,8 +1,8 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/93104850/176232597-6df74ca4-d437-4105-a2c8-078abc3290b2.gif" height="200px">
     <br>
-    <samp>
-        <b>¡Hola!</b>, Soy <a href="https://github.com/dalgomdtx">Luis Aguilar :wave:</a>!
+    <samp">
+        <b>¡Hola!</b>, Soy <a href="https://www.facebook.com/luisARdtX">Luis Aguilar :wave:</a>!
         <br>
         Estudiante de Ingeniería | Backend Developer | Open Source | Competitive Programmer
     </samp>
@@ -72,7 +72,7 @@
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-000000?style=for-the-badge&logo=Ubuntu&logoColor=cyan)
 ![Kali Linux](http://img.shields.io/badge/-Kali%20linux-000000?style=for-the-badge&logo=kali-linux&logoColor=cyan)
 
-<h2 align="center"><i>Sigueme: :trollface:</i></h2>
+<h2 align="center"><i>Sígueme: :trollface:</i></h2>
 <div align="center">
     <a href="https://www.instagram.com/luisardtx" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
@@ -93,6 +93,8 @@
         <img src="https://img.shields.io/badge/Github-%231877F2.svg?&style=flat-square&logo=github&logoColor=white&color=071A2C" alt="Github">
     </a>
 </div>
+
+---
 
 <div align="center">
     <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="200">
