@@ -83,7 +83,7 @@
     <a href="https://twitter.com/luisARdtX" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
     </a>
-    <a href="mailto:luisaguilar0920gmail.com" mailto="luisaguilar0920gmail.com" target="_blank">
+    <a href="mailto:luis@dalgomdtx.me" mailto="luis@dalgomdtx.me" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
     </a>
     <a href="https://www.reddit.com/user/smoothdo" target="_blank">
