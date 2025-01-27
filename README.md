@@ -23,6 +23,7 @@
 - * :small_red_triangle_down: Explorando nuevas tecnologías basadas en la nube :cloud:
 - * :small_red_triangle_down: Expandiendo mi conocimiento en Ciencias de la Computación :satellite:
 - * :small_red_triangle_down: Aprendiendo más sobre Backend Architectures y Frontend Developement :curly_loop:
+- * :small_red_triangle_down: Puliendo habilidades en contenedores :motor_boat:
 
 ## :teddy_bear: Pasatiempos:
 * Música :headphones:
@@ -60,6 +61,7 @@
 ![NPM](http://img.shields.io/badge/-NPM-000000?style=for-the-badge&logo=NPM&logoColor=cyan)
 ![Express](http://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express&logoColor=cyan)
 ![React](http://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React&logoColor=cyan)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ### :octocat: Plataforma y herramienta que uso </br>
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
