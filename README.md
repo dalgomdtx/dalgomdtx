@@ -61,7 +61,7 @@
 ![NPM](http://img.shields.io/badge/-NPM-000000?style=for-the-badge&logo=NPM&logoColor=cyan)
 ![Express](http://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express&logoColor=cyan)
 ![React](http://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React&logoColor=cyan)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=cyan)
+![Docker](http://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=Docker&logoColor=cyan)
 
 ### :octocat: Plataforma y herramienta que uso </br>
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
