@@ -10,12 +10,16 @@
 
 <div align="center">
     <a href="https://github.com/dalgomdtx">
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=dalgomdtx&left_text=dalgomdtX" alt="DalgomdtX">
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=dalgomdtx&left_text=dalgomdtX" alt="Github Profile">
+    </a>
+    <a href="https://dalgomdtx.xyz" target="_blank" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/Sitio%20web-0D1117?style=flat&logo=google-chrome&logoColor=white" alt="Web Site">
     </a>
 </div>
 
+
 ---
-          
+
 ## :question: Acerca de mi
 
 <img align="right" src="https://user-images.githubusercontent.com/93104850/176260213-c29e65c7-2154-44f0-bc06-786ef97363c4.gif"/>
@@ -52,6 +56,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=PHP)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
 
+
 ### :nerd_face: Tecnologías con las que he trabajado </br>
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
@@ -82,10 +87,10 @@
     <a href="https://www.facebook.com/luisARdtX" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
     </a>
-    <a href="https://twitter.com/luisARdtX" target="_blank">
+    <a href="https://x.com/luisARdtX" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
     </a>
-    <a href="mailto:luis@dalgomdtx.me" mailto="luis@dalgomdtx.me" target="_blank">
+    <a href="mailto:contacto@dalgomdtx.xyz" mailto="contacto@dalgomdtx.xyz" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
     </a>
     <a href="https://www.reddit.com/user/smoothdo" target="_blank">
@@ -105,4 +110,4 @@
 
 ---
 
-<p align="center">⭐️<a href="https://github.com/dalgomdtx"><b>DalgomdtX</b></a> :copyright: 2025</p>
+<p align="center">⭐️<a href="https://github.com/dalgomdtx"><b>dalgomdtX</b></a> :copyright: 2025</p>
