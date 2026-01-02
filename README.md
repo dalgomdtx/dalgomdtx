@@ -110,4 +110,4 @@
 
 ---
 
-<p align="center">⭐️<a href="https://github.com/dalgomdtx"><b>dalgomdtX</b></a> :copyright: 2025</p>
+<p align="center">⭐️<a href="https://github.com/dalgomdtx"><b>dalgomdtX</b></a> :copyright: 2026</p>
