@@ -43,8 +43,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dalgomdtx&show_icons=true&hide_border=true&theme=nord&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalgomdtx&layout=compact&theme=nord&hide_border=true&v=1" alt="Top Languages" />
+  <img src="https://git-readme-stats.dalgomdtx.xyz/api?username=dalgomdtx&show_icons=true&hide_border=true&theme=nord" alt="GitHub Stats" />
+  <img src="https://git-readme-stats.dalgomdtx.xyz/api/top-langs/?username=dalgomdtx&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
