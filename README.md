@@ -1,113 +1,67 @@
+<h1 align="center">Luis Aguilar</h1>
+
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/93104850/176232597-6df74ca4-d437-4105-a2c8-078abc3290b2.gif" height="200px">
-    <br>
-    <samp">
-        <b>¡Hola!</b>, Soy <a href="https://www.facebook.com/luisARdtX">Luis Aguilar :wave:</a>!
-        <br>
-        Estudiante de Ingeniería | Backend Developer | Open Source | Competitive Programmer
-    </samp>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=6CF7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Infrastructure+%26+Automation;Self-Hosted+Systems;Cloud+%2F+Edge+Architecture" alt="Typing Effect" />
 </p>
 
-<div align="center">
-    <a href="https://github.com/dalgomdtx">
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=dalgomdtx&left_text=dalgomdtX" alt="Github Profile">
-    </a>
-    <a href="https://dalgomdtx.xyz" target="_blank" style="display: inline-block;">
-        <img src="https://img.shields.io/badge/Sitio%20web-0D1117?style=flat&logo=google-chrome&logoColor=white" alt="Web Site">
-    </a>
-</div>
-
-
----
-
-## :question: Acerca de mi
-
-<img align="right" src="https://user-images.githubusercontent.com/93104850/176260213-c29e65c7-2154-44f0-bc06-786ef97363c4.gif"/>
-
-- * :small_red_triangle_down: Explorando nuevas tecnologías basadas en la nube :cloud:
-- * :small_red_triangle_down: Expandiendo mi conocimiento en Ciencias de la Computación :satellite:
-- * :small_red_triangle_down: Aprendiendo más sobre Backend Architectures y Frontend Developement :curly_loop:
-- * :small_red_triangle_down: Puliendo habilidades en contenedores :motor_boat:
-
-## :teddy_bear: Pasatiempos:
-* Música :headphones:
-* Juegos :video_game:
-* Investigación :desktop_computer:
-
-## :hourglass: Pendientes:
-- [x] Estudiar
-- [ ] Jugar
-- [x] Comer
-- [ ] Dormir
-- [x] Coffe
-- [x] More coffe
-- [ ] Coffe?
+<p align="center">
+  <a href="https://github.com/dalgomdtx">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=dalgomdtx&left_text=dalgomdtX" alt="Github Profile">
+  </a>
+  <a href="https://dalgomdtx.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Website-0D1117?style=flat&logo=google-chrome&logoColor=white" alt="Web Site">
+  </a>
+</p>
 
 ---
 
-### :books: He usado </br>
-![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=PHP)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+## Tech Stack
 
-
-### :nerd_face: Tecnologías con las que he trabajado </br>
-![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
-![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
-![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
-![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
-![Node.js](http://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=cyan)
-![NPM](http://img.shields.io/badge/-NPM-000000?style=for-the-badge&logo=NPM&logoColor=cyan)
-![Express](http://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express&logoColor=cyan)
-![React](http://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React&logoColor=cyan)
-![Docker](http://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=Docker&logoColor=cyan)
-
-### :octocat: Plataforma y herramienta que uso </br>
-![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
-![Atom](http://img.shields.io/badge/-Atom-000000?style=for-the-badge&logo=Atom&logoColor=blue)
-![Slack](https://img.shields.io/badge/-Slack-000000?style=for-the-badge&logo=Slack&logoColor=blue)
-![Heroku](http://img.shields.io/badge/-heroku-000000?style=for-the-badge&logo=Heroku&logoColor=cyan)
-
-![Windows](http://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=Windows&logoColor=cyan)
-![Arch Linux](http://img.shields.io/badge/-Arch%20linux-000000?style=for-the-badge&logo=Arch-linux&logoColor=cyan)
-![Ubuntu](http://img.shields.io/badge/-Ubuntu-000000?style=for-the-badge&logo=Ubuntu&logoColor=cyan)
-![Kali Linux](http://img.shields.io/badge/-Kali%20linux-000000?style=for-the-badge&logo=kali-linux&logoColor=cyan)
-
-<h2 align="center"><i>Sígueme: :trollface:</i></h2>
 <div align="center">
-    <a href="https://www.instagram.com/luisardtx" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
-    </a>
-    <a href="https://www.facebook.com/luisARdtX" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
-    </a>
-    <a href="https://x.com/luisARdtX" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
-    </a>
-    <a href="mailto:contacto@dalgomdtx.xyz" mailto="contacto@dalgomdtx.xyz" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
-    </a>
-    <a href="https://www.reddit.com/user/smoothdo" target="_blank">
-        <img src="https://img.shields.io/badge/Reddit-%231877F2.svg?&style=flat-square&logo=reddit&logoColor=white&color=071A2C" alt="Reddit">
-    </a>
-    <a href="https://github.com/dalgomdtx" target="_blank">
-        <img src="https://img.shields.io/badge/Github-%231877F2.svg?&style=flat-square&logo=github&logoColor=white&color=071A2C" alt="Github">
-    </a>
+  <p><strong>Languages & Frameworks</strong></p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-339939?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+
+  <br><br>
+
+  <p><strong>Databases & Infrastructure</strong></p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/TrueNAS-0095D5?style=flat-square&logo=truenas&logoColor=white" alt="TrueNAS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
 ---
 
+## GitHub Stats
+
 <div align="center">
-    <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="200">
-    <img style="margin: auto;" src="https://github-readme-stats.vercel.app/api?username=dalgomdtx&show_icons=true&hide_border=true&theme=radical" >
+  <img src="https://github-readme-stats.vercel.app/api?username=dalgomdtx&show_icons=true&hide_border=true&theme=nord&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalgomdtx&layout=compact&theme=nord&hide_border=true&v=1" alt="Top Languages" />
 </div>
 
 ---
 
-<p align="center">⭐️<a href="https://github.com/dalgomdtx"><b>dalgomdtX</b></a> :copyright: 2026</p>
+## Let's Connect
+
+<div align="center">
+  <a href="https://x.com/luisARdtX" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.facebook.com/luisARdtX" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/luisardtx" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:contacto@dalgomdtx.xyz">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
